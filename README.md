@@ -1,4 +1,6 @@
-lx1986.github.com
-=================
+Visit http://github.com/wendal/gor
 
-天边的流星个人博客
+## License
+
+Released under the [MIT License](http://www.opensource.org/licenses/MIT)
+
