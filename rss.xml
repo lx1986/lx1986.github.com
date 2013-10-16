@@ -2,7 +2,13 @@
 <rss version="2.0">  <channel>
     <title>天边的流星之个人博客</title>
     <link>http://lx1986.com</link>
-    <pubDate>08 Oct 13 11:53 +0800</pubDate>
+    <pubDate>16 Oct 13 21:31 +0800</pubDate>
+    <item>
+      <title>工作计划</title>
+      <link>http://lx1986.com/2013/10/work-plan.html</link>
+      <pubDate>2013-10-16 12:00:00 +0800</pubDate>
+      <description>&lt;p&gt;　　为了提醒自己要随时记录自己想记录的东西，特此列个目录，督促自己。&lt;/p&gt;&#xA;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;写一个使用DataTable实现的小型Web报表工具；&lt;/li&gt;&#xA;&lt;li&gt;写一个使用OpenXML解析Excel 2007的工具类；&lt;/li&gt;&#xA;&lt;li&gt;写一个Spring.net+Nhibernate+Mvc4(SMH)的系列；&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&#xA;&lt;p&gt;　　虽然现在网上到处充满了关于SMH的文章，不过为了建立自己的知识体系，个人觉得还是有必要记录一下。&lt;/p&gt;&#xA;</description>
+    </item>
     <item>
       <title>开张了!</title>
       <link>http://lx1986.com/start.html</link>
